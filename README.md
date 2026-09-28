@@ -66,3 +66,4 @@ Current dataset: **42 examples** (16 correct, 26 buggy across 6 bug types). Scal
 
 **Amir M. Sayed** — AI/ML engineer, 3+ years freelance experience in LLM evaluation, RLHF preference ranking, and Python backend development (FastAPI, SQL).
 GitHub: [github.com/MeroSayed27](https://github.com/MeroSayed27)
+"# ai-code-quality-evaluator" 
