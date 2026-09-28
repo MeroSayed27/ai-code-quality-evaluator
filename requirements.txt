@@ -1,0 +1,11 @@
+# Phase 1 (this step) - no dependencies beyond the Python standard library
+
+# Phase 2 (next step) - feature extraction + model training
+torch>=2.2.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Phase 3 (later step) - API service
+fastapi>=0.110.0
+uvicorn>=0.29.0
